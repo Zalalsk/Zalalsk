@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zalalsk.
 - 👀 I’m interested in coding, algorithm .
-- 🌱 I’m currently learning many languages but master none.
+- 🌱 I’ve learned many languages but master none.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 i'm learning git so it take times to cnnect with others.
 
